@@ -56,7 +56,9 @@ npm run dev
 
 ## 🚀 极速预览 (无需 Git)
 如果你不想在本地安装 Node.js，可以直接使用我的云端共享版本：
-[**在线预览：点击即用**](https://ais-pre-3u3mq5vesqvzfjkjjjmhzw-512945237866.europe-west2.run.app)
+[**在线预览：点击即用**](https://ai.studio/apps/40da3bd5-4176-479a-9bb3-7b7429f34cb4)
+
+*注意：如果你点击报错 404，请点击 AI Studio 本页面顶部的 **Share** 按钮获取最新链接并手动更新此处。*
 
 ---
 署名：**Bruno.F**
