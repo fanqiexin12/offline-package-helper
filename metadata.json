@@ -1,0 +1,6 @@
+{
+  "name": "Python Offline Package Helper",
+  "description": "Generate scripts to download Python packages (pandas, etc.) for offline installation on Windows Python 3.9 using pip download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
